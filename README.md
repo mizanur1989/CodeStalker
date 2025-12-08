@@ -20,7 +20,7 @@
 
 ### Установка
 📌 Клонируй репозиторий
-git clone https://github.com/твоя-учетка/CodeStalker.git
+git clone https://github.com/web-pentest/CodeStalker.git
 cd CodeStalker
 
 📌 Убедись, что PHP установлен (7.1+)
