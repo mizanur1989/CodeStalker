@@ -1,5 +1,14 @@
 # CodeStalker v1.1 - Кибер-расследование CLI
 
+**CLI-игра про этичное хакерство и кибер-расследование!**
+
+<p align="center">
+  <img src="gameplay.jpg" alt="CodeStalker Gameplay" width="400">
+  <br><em>CodeStalker в действии — сканируй сеть как настоящий хакер!</em>
+</p>
+
+<br>
+
 [![GitHub stars](https://img.shields.io/github/stars/web-pentest/CodeStalker)](https://github.com/web-pentest/CodeStalker)
 [![GitHub license](https://img.shields.io/github/license/web-pentest/CodeStalker)](https://github.com/web-pentest/CodeStalker)
 [![PHP Version](https://img.shields.io/badge/PHP-7.1%2B-blue)](https://www.php.net)
