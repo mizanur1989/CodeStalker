@@ -1,7 +1,5 @@
 # CodeStalker v1.1 - Кибер-расследование CLI
 
-**CLI-игра про этичное хакерство и кибер-расследование!**
-
 <p align="center">
   <img src="gameplay.jpg" alt="CodeStalker Gameplay" width="400">
   <br><em>CodeStalker в действии — сканируй сеть как настоящий хакер!</em>
