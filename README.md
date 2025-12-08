@@ -1,4 +1,4 @@
-# CodeStalker v1.2 - Кибер-расследование CLI
+# CodeStalker v1.1 - Кибер-расследование CLI
 
 [![GitHub stars](https://img.shields.io/github/stars/web-pentest/CodeStalker)](https://github.com/web-pentest/CodeStalker)
 [![GitHub license](https://img.shields.io/github/license/web-pentest/CodeStalker)](https://github.com/web-pentest/CodeStalker)
@@ -69,7 +69,7 @@ codestalker$ exit      # Выход
 - **⭐️ Отличная** (<20 мин) — $250K бонус от MegaCorp  
 - **✅ Хорошая** (>20 мин) — сертификат CEH
 
-## 📊 Функции v1.2
+## 📊 Функции v1.1
 
 ### ✨ Новое:
 - 💾 Автосохранение — прогресс сохраняется в `save.json`
@@ -85,7 +85,7 @@ codestalker$ exit      # Выход
 
 ## 🚀 Что дальше?
 
-### Планируется в v1.3+:
+### Планируется в v1.2+:
 - 🌐 Веб-версия на JavaScript/Node.js
 - 📱 Мобильная поддержка (Termux)
 - 🎵 Звуковые эффекты в терминале
