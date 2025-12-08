@@ -89,7 +89,7 @@ CodeStalker/
 ├── codestalker.php     # Основной игровой файл
 ├── README.md          # Документация
 ├── LICENSE            # Лицензия (MIT)
-└── docs/              # Документация (будет)
+└── docs/              # Документация
 ├── commands.md    # Полный список команд
 └── missions.md    # Описание миссий
 
