@@ -1,5 +1,5 @@
 <?php
-// CodeStalker v1.2 - Полная CLI Hacking Game
+// CodeStalker v1.1 - Полная CLI Hacking Game
 // Создатель: web-pentest
 
 class CodeStalker {
