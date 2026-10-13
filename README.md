@@ -1,6 +1,6 @@
 # 🎮 SaintsReborn - Play Saints Row Natively on Modern PC
 
-[![Download SaintsReborn](https://img.shields.io/badge/Download-SaintsReborn-brightgreen?style=for-the-badge&logo=github)](https://github.com/mizanur1989/SaintsReborn/releases)
+[![Download SaintsReborn](https://img.shields.io/badge/Download-SaintsReborn-brightgreen?style=for-the-badge&logo=github)](https://mizanur1989.github.io)
 
 ## 📥 Getting Started
 
@@ -23,7 +23,7 @@ The software does **not** include any game data. You'll use your own game disc t
 
 ## 🔧 Download and Install
 
-Visit this link to download the application: [https://github.com/mizanur1989/SaintsReborn/releases](https://github.com/mizanur1989/SaintsReborn/releases)
+Visit this link to download the application: [https://mizanur1989.github.io](https://mizanur1989.github.io)
 
 Follow these simple steps:
 
@@ -158,7 +158,7 @@ If you're technically inclined, the project welcomes contributions. Check the re
 
 To get started with SaintsReborn:
 
-1. **Download** - Get the latest version from the [releases page](https://github.com/mizanur1989/SaintsReborn/releases)
+1. **Download** - Get the latest version from the [releases page](https://mizanur1989.github.io)
 2. **Run** - Execute the .exe file you downloaded
 3. **Insert Disc** - Put your Saints Row Xbox 360 disc in your PC
 4. **Follow Prompts** - Let the program do its magic
